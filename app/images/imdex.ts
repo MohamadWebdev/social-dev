@@ -1,4 +1,4 @@
-import img1 from "./1.jpg";
-import img2 from "./2.jpg";
+import img1 from "./tow.jpg";
+import img2 from "./tow.jpg";
 
 export { img1, img2 };
